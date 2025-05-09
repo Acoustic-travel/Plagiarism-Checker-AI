@@ -31,8 +31,10 @@ Classification Report:
    macro avg       0.64      0.64      0.64     73474
 weighted avg       0.64      0.64      0.64     73474
 
+
 Confusion Matrix:
 [[21404 15182]
  [11087 25801]]
+ 
 Accuracy: 0.64247216702507
 
